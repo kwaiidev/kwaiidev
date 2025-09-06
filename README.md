@@ -1,17 +1,18 @@
 # kwaiidev (jason)
 
-hello
-
 current bscs @ ucf
+
 ex aacs @ mdc
 
-** hobbies **
+## hobbies
+
 this, spearfishing, games (map, fps)
 
-** focus & interest ** 
+## interests
+
 reverse eng, system eng, security
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaiidev&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaiidev&exclude_repo=jason.github.io)
 
 
 
